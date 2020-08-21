@@ -3,6 +3,7 @@ import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 
 export default function App() {
+    // This is a comment
   return (
     <View style={styles.container}>
       <Text>Hello World!</Text>
